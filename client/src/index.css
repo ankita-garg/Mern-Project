@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.imgstyle{
+  height: 400px;
+  width: 100%;
+}
+
+
+.container{
+  position: block;
+  width: 100%;
+}
+
+.astyle{
+  color: black;
+}
+
+.cstyle{
+  color: black;
+}
+
+.formgroup{
+  box-sizing: border-box;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+  box-shadow: 3px 3px 3px 3px cadetblue;
+}
+
+.contentstyle{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: 5px 5px 5px 5px grey;
+}
+
+.form-control{
+  height: 100px;
+}
+
+.boxstyle{
+  box-shadow: 5px 5px 5px 5px;
+  margin-top: 100px;
+  padding: 10px 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
+  box-sizing: content-box;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2mX0VBHNihqhWJmlm-eKOyVew5iNhxD06ENrVKGVQ97fExR8zg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactstyle{
+  background-image: url(https://backgrounddownload.com/wp-content/uploads/2018/09/11x17-background-3-291x200.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.camp1{
+  box-shadow: 5px 5px 5px 5px lightgrey;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-left: 40px;
+  width: 900px;
+  color: black;
+  text-align: justify;
+}
+
+.heading{
+  color: crimson;
+}
+
+.headingstyle{
+  font-family: 'Shojumaru', cursive;
+}
+
+.fontsty{
+  font-family: 'Playfair Display', serif;
+}
+
+.blog-logo{
+  font-size: 30px;
+}
+
+.campbgstyle{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlIb30Zlzgudu2pU9hltWBcbTzenBl2myJk_Kby2ef6CJ8iRd);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn{
+  background-color: crimson;
+  width: 150px;
+}
+
+.campimg{
+  float: right;
+  height: 250px;
+  width: 300px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+  margin-left: 50px;
+  margin-top: 6px;
+}
